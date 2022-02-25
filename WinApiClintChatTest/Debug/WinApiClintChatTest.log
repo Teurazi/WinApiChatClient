@@ -1,0 +1,8 @@
+﻿  WinApiClintChatTest.cpp
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(173,45): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(198,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(208,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(215,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(216,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(276,9): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+  WinApiClintChatTest.vcxproj -> C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\Debug\WinApiClintChatTest.exe

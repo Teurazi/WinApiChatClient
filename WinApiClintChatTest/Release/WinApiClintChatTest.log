@@ -1,0 +1,17 @@
+﻿  WinApiClintChatTest.cpp
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(71,12): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(71,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(70,9): warning C4101: 'readbytes' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(69,10): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(245,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(207,45): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(235,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(251,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(252,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\WinApiClintChatTest\WinApiClintChatTest.cpp(312,9): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  WinApiClintChatTest.vcxproj -> C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\WinApiClintChatTest\Release\WinApiClintChatTest.exe
